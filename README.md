@@ -35,8 +35,8 @@ Dataset yang digunakan berasal dari Kaggle: **[Animal Image Dataset (90 Differen
 4.  **Evaluation:** Memantau grafik akurasi/loss dan menggunakan confusion matrix.
 
 ## 📊 Results
-* **Training Accuracy:** ~XX% *(Isi dengan hasil akhir kamu)*
-* **Validation Accuracy:** ~XX% *(Isi dengan hasil akhir kamu)*
+* **Training Accuracy:** ~96% 
+* **Validation Accuracy:** ~86% 
 * **Model Performance:** Model mampu membedakan hewan dengan ciri visual yang mirip berkat fitur yang dipelajari dari ImageNet.
 
 ## 🚀 How to Run Locally
