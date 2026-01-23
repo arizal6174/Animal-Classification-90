@@ -7,10 +7,10 @@ import json
 import time
 
 # ---------------------------------------------------------------------
-# 1. KONFIGURASI HALAMAN (Wajib di baris pertama)
+# 1. KONFIGURASI HALAMAN
 # ---------------------------------------------------------------------
 st.set_page_config(
-    page_title="Animal AI Classifier",
+    page_title="Animal Classification AI",
     page_icon="🦁",
     layout="wide",  # Layout lebar agar terlihat pro
     initial_sidebar_state="expanded"
@@ -75,7 +75,7 @@ if uploaded_file is not None:
     with col1:
         st.info("Gambar yang diupload:")
         image = Image.open(uploaded_file)
-        st.image(image, use_column_width=True, caption="Input Image")
+        st.image(image, use_column_width='auto', caption="Input Image")
 
     with col2:
         st.info("Hasil Analisis AI:")
