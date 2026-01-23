@@ -1,9 +1,11 @@
 # 🦁 Animal Species Classification (90 Classes)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://animalclassification-dl.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-Deployment-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+
+> **🚀 LIVE DEMO:** Coba aplikasi ini secara langsung di sini: **[animalclassification-dl.streamlit.app](https://animalclassification-dl.streamlit.app)**
 
 ## 📋 Project Overview
 Proyek ini adalah implementasi **Deep Learning** untuk mengklasifikasikan gambar hewan ke dalam **90 kategori spesies** yang berbeda. Mengingat banyaknya jumlah kelas dan variasi gambar, proyek ini menggunakan teknik **Transfer Learning** dengan arsitektur **MobileNetV2** untuk mencapai akurasi yang tinggi dengan waktu komputasi yang efisien.
