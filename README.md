@@ -11,7 +11,7 @@ Proyek ini adalah implementasi **Deep Learning** untuk mengklasifikasikan gambar
 Hasil akhir dari proyek ini dideploy menjadi aplikasi web interaktif menggunakan **Streamlit**, memungkinkan pengguna untuk mengunggah gambar hewan dan mendapatkan prediksi spesies beserta tingkat keyakinannya (*confidence score*).
 
 ## 🗂️ Dataset
-Dataset yang digunakan berasal dari Kaggle: **[Animal Image Dataset (90 Different Animals)](https://www.kaggle.com/datasets/iamsouravbh/animal-image-dataset-90-different-animals)**.
+Dataset yang digunakan berasal dari Kaggle: **[Animal Image Dataset (90 Different Animals)](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals)**.
 * **Jumlah Kelas:** 90 Spesies (Antelope, Badger, Bat, Bear, dll.)
 * **Format:** Image (JPG/PNG)
 * **Preprocessing:** Rescaling (1./255), Resizing (224x224).
