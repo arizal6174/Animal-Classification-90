@@ -45,5 +45,5 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/arizal6174/Animal-Classification-90.git](https://github.com/username-kamu/Animal-Classification-90.git)
+git clone [https://github.com/arizal6174/Animal-Classification-90.git](https://github.com/arizal6174/Animal-Classification-90.git)
 cd Animal-Classification-90
